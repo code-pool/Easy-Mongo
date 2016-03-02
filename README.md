@@ -1,2 +1,4 @@
-# I-See-You
-Look straight into the eyes of your nosql database.
+<image src="https://raw.githubusercontent.com/code-pool/I-See-You/master/src/logo.png"/>
+
+
+I knew you were not so difficult as we thought! 
